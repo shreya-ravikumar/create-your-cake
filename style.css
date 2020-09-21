@@ -22,8 +22,13 @@ body {
   color: #8a608a;
   font-family: 'Arima Madurai';
 }
+.btn{
+  margin-right: 2rem;
+}
 
-
+.jumbotron {
+  margin-bottom:0rem;
+}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -84,6 +89,8 @@ body {
   line-height: 1;
   letter-spacing: -.05rem;
 }
+
+
 
 
 /* RESPONSIVE CSS
